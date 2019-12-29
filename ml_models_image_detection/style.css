@@ -1,0 +1,24 @@
+.recipe_recipe__1w5vM {
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px #000000;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    font-size: 0.6em;
+    flex-direction: column;
+    justify-content: space-around;
+    background: #FFFFFF;
+    height: auto;
+    width: 300px;
+}
+.recipes {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
